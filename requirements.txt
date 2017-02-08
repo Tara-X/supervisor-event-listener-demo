@@ -1,0 +1,8 @@
+appdirs==1.4.0
+contextlib2==0.5.4
+meld3==1.0.2
+packaging==16.8
+pyparsing==2.1.10
+raven==5.32.0
+six==1.10.0
+supervisor==3.3.1
