@@ -21,6 +21,6 @@ Then start or close applicaiton in `http://localhost:9001` (user/123), you will 
 
 ## Issures
 
-1. https://github.com/Tara-X/supervisor-event-listener-demo/issues/1
+1. [由于使用stdout监听不生效的问题](https://github.com/Tara-X/supervisor-event-listener-demo/issues/1)
 
 
